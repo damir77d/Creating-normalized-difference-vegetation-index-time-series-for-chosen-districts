@@ -10,6 +10,9 @@ Three different locations of Moscow were chosen:
 * Volzhskiy bulvar is a boulevard next to where I live
 * Vorobyevi Gori - hills covered with trees
 
+Subsetting have been performed through SNAP.
+
+Main libraries used: numpy, pandas, geopandas, matplotlib.
 
 ![NDVI](ndvi-background.png)
 
