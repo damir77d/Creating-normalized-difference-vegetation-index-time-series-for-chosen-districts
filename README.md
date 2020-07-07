@@ -1,4 +1,4 @@
-### **NDVI analysis of different districts of Moscow at different points in time**
+## **NDVI analysis of different districts of Moscow at different points in time**
 
 Folder *Landsat8* consists of five datasets from Landsat-8: May 2015, June 2016, September 2018, June 2019, September 2019.
 
