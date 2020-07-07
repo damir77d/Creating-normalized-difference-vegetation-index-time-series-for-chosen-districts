@@ -1,6 +1,6 @@
 ### **NDVI analysis of different districts of Moscow at different points in time**
 
-![NDVI](ndvi.png)
+![NDVI](ndvi-background.png)
 
 
 Folder *Landsat8* consists of five datasets from Landsat-8: May 2015, June 2016, September 2018, June 2019, September 2019.
@@ -13,5 +13,4 @@ Three different locations of Moscow were chosen:
 * Volzhskiy bulvar is a boulevard next to where I live
 * Vorobyevi Gori - hills covered with trees
 
-![NDVI](ns22dvi.png)
 
