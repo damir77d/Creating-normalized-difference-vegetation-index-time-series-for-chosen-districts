@@ -13,3 +13,5 @@ Three different locations of Moscow were chosen:
 * Volzhskiy bulvar is a boulevard next to where I live
 * Vorobyevi Gori - hills covered with trees
 
+![NDVI](ns22dvi.png)
+
