@@ -1,14 +1,9 @@
-**NDVI analysis of different districts of Moscow at different points in time**
+### **NDVI analysis of different districts of Moscow at different points in time**
 
+Five datasets from Landsat 8 were used: May 2015, June 2016, September 2018, June 2019, September 2019.
 
-Images from Landsat 8 were used.
+Three different locations of Moscow were chosen:
+Zaryadye is a park in center of Moscow, founded in 2017
+Volzhskiy bulvar is a boulevard next to where I live
+Vorobyevi Gori - hills covered with trees
 
-LIDAR-FWF-data-processing-NEON
-This repository contains functions for processing of NEON LIDAR FWF data.
-
-Codes
-1) LIDAR-FWF processing Cookbook.ipynb
-The jupyter notebook called LIDAR-FWF processing Cookbook contains functions for processing (data extraction, georeferencing, Gaussian fitting etc).
-
-2) neon_fwf.py
-'neon_fwf.py' is a little python module for creating hdf files from pulsewave files. All signals in hdf file will be georeferenced. About the file structure, it contains 'Amplitude', 'Index' and 'XYZ' coordinates. Each amplitude value has corresponding 0 or 1 where 0 - is standing for outgoing and 1 is standing for returning signal.
